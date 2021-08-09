@@ -858,6 +858,13 @@ div.tab button:hover {
     border-color: #3b5998 !important;
 }
 
+.in-button.btn-primary:focus,
+.in-button.btn-primary:hover,
+.in-button.btn-primary {
+    background-color: #0077b5 !important;
+    border-color: #0077b5 !important;
+}
+
 .tw-button.btn-primary:hover,
 .tw-button.btn-primary:focus,
 .tw-button.btn-primary {
