@@ -678,6 +678,10 @@ div.tab button:hover {
     overflow: auto;
 }
 
+.copyright {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 
 /* PAGES 
 **************************************/
@@ -1745,6 +1749,7 @@ hr.invis3 {
 .icon {
     padding: 15px 20px;
     font-size: 1.2em;
+    margin-bottom: 30px;
 }
 
 .tabular {
