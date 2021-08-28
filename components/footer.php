@@ -20,21 +20,16 @@
                         <h2 class="widget-title">Kenny East Africa</h2>
                         <div class="blog-list-widget">
                             <div class="list-group">
-                                <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
                                     <div class="w-100 justify-content-between">
                                         <h5 class="mb-1">VISION</h5>
                                         <p>To create opportunity, growth and impact to every business meet their
                                             obligations and expand their market base.</p>
                                     </div>
-                                </a>
-
-                                <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
                                     <div class="w-100 justify-content-between">
                                         <h5 class="mb-1">MISION</h5>
                                         <p>To build and restore customer confidence through platform of genuine, factual
                                             and verified goods and service providers.</p>
                                     </div>
-                                </a>
                             </div>
                         </div><!-- end blog-list -->
                     </div><!-- end widget -->

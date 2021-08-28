@@ -183,3 +183,12 @@
         left: auto;
     }
 }
+
+@media only screen and (max-width: 1026px) {
+    .widget {
+        display: none;
+    }
+    #side {
+        display: none;
+    }
+}

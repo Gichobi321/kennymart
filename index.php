@@ -52,7 +52,7 @@
                                             </ul>
                                         </div><!-- end post-sharing -->
                                         <h4><a href="#" title="">NAIROBI SCALES</a></h4>
-                                        <p> Nairobi scales sells a complete portfolio of weighing equipment from all the leading manufacturers at very competitive rates. also offers a full component level repair service. <b>CALL:0202102296</b></p>
+                                        <p> Nairobi scales sells a complete portfolio of weighing equipment from all the leading manufacturers at very competitive rates. also offers a full component level repair service.<button class="call"><a href="tel:0202102296">Call Us</a></button></p>
                                         <small><a href="C-industrial.php" title="">Industrial machines</a></small>
                                         <small><a href="#" title="">24 July, 2021</a></small>
                                         <small><a href="#" title="">by Robert</a></small>
@@ -81,7 +81,7 @@
                                             </ul>
                                         </div><!-- end post-sharing -->
                                         <h4><a href="https://kokofuel.com/" title="">KOKO NETWORKS</a></h4>
-                                        <p>KOKO is an international technology company with a difference. We are a global leader in clean ethanol cooking fuel and cooking products. The Koko Cooker is a 2-burner cookstove that uses liquid bio-ethanol fuel. Koko Fuel is a liquid bioethanol which is used as an alternative to firewood and charcoal in Kenyan homes.<b>CALL:0764148957</b></p>
+                                        <p>KOKO is an international technology company with a difference. We are a global leader in clean ethanol cooking fuel and cooking products. The Koko Cooker is a 2-burner cookstove that uses liquid bio-ethanol fuel. Koko Fuel is a liquid bioethanol which is used as an alternative to firewood and charcoal in Kenyan homes.<button class="call"><a href="tel:0764148957">Call Us</a></button></p>
                                         <small><a href="C-home-app.php" title="">home appliances</a></small>
                                         <small><a href="#" title="">9 August, 2021</a></small>
                                         <small><a href="#" title="">by koko</a></small>
@@ -113,7 +113,7 @@
                                             </ul>
                                         </div><!-- end post-sharing -->
                                         <h4><a href="#" title=""> Mombasa scales</a></h4>
-                                        <p>Mombasa Eazy Weigh Scales is a leading importer and supplier of scales (both manual and digital/electronic). We undertake service maintenance of all types of weighing scales and offering after sales service and as need arise.<b>CALL:0727812373</b></p>
+                                        <p>Mombasa Eazy Weigh Scales is a leading importer and supplier of scales (both manual and digital/electronic). We undertake service maintenance of all types of weighing scales and offering after sales service and as need arise.<button class="call"><a href="tel:0727812373">Call Us</a></button></p>
                                         <small><a href="C-industrial.php" title="">Industrial machines</a></small>
                                         <small><a href="#" title="">21 July, 2021</a></small>
                                         <small><a href="#" title="">by Robert</a></small>
@@ -147,7 +147,7 @@
                                             </ul>
                                         </div><!-- end post-sharing -->
                                         <h4><a href="https://www.instagram.com/gatrion_enterprises/?hl=en" title="">Gatrion Enterprises & land surveyors</a></h4>
-                                        <p>Mapping, surveying, and multidisciplinary firm that is licensed to operate in Kenya.This allows clients to do land transfers, re-establishment, succession, and subdivision.professionals from Gatrion Enterprises will help you.<b>CALL:0728496436</b></p>
+                                        <p>Mapping, surveying, and multidisciplinary firm that is licensed to operate in Kenya.This allows clients to do land transfers, re-establishment, succession, and subdivision.professionals from Gatrion Enterprises will help you.<button class="call"><a href="tel:0728496436">Call Us</a></button></p>
                                         <small><a href="C-services.php" title="">service providers</a></small>
                                         <small><a href="#" title="">20 July, 2021</a></small>
                                         <small><a href="#" title="">by Gideon</a></small>
@@ -177,7 +177,7 @@
                                             </ul>
                                         </div><!-- end post-sharing -->
                                         <h4><a href="https://copia.co.ke/" title="">COPIA KENYA</a></h4>
-                                        <p>Copia is a consumer goods catalog and delivery service for Base of the Pyramid consumers in the developing world. We leverage mobile technologies and a network of agents serving as distribution points to make a wide range of quality goods accessible to rural and peri-urban consumers.<b>CALL:0709339000</b></p>
+                                        <p>Copia is a consumer goods catalog and delivery service for Base of the Pyramid consumers in the developing world. We leverage mobile technologies and a network of agents serving as distribution points to make a wide range of quality goods accessible to rural and peri-urban consumers.<button class="call"><a href="tel:0709339000">Call Us</a></button></p>
                                         <small><a href="C-retail.php" title="">Retail chain</a></small>
                                         <small><a href="#" title="">19 July, 2021</a></small>
                                         <small><a href="#" title="">by Copia</a></small>
@@ -207,7 +207,7 @@
                                             </ul>
                                         </div><!-- end post-sharing -->
                                         <h4><a href="#" title="">Tropikal Brands</a></h4>
-                                        <p>Tropikal Brands represents leading brands from the world’s finest companies. We are driven to achieve the highest standards of quality and excellence in everything we do. To all our partners: “Your success is our goal.”<b>CALL:0720463841</b></p>
+                                        <p>Tropikal Brands represents leading brands from the world’s finest companies. We are driven to achieve the highest standards of quality and excellence in everything we do. To all our partners: “Your success is our goal.<button class="call"><a href="tel:0720463841">Call Us</a></button></p>
                                         <small><a href="category.php" title="">Technology</a></small>
                                         <small><a href="#" title="">19 July, 2021</a></small>
                                         <small><a href="#" title="">by Martin</a></small>
@@ -223,8 +223,8 @@
                                 <nav aria-label="Page navigation">
                                     <ul class="pagination justify-content-center">
                                         <li class="page-item"><a class="page-link" href="C-home-app.php">2</a></li>
-                                        <li class="page-item"><a class="page-link" href="C-Electronic.php">3</a></li>
-                                        <li class="page-item"><a class="page-link" href="C-Electronic.php">4</a></li>
+                                        <li class="page-item"><a class="page-link" href="C-electronic.php">3</a></li>
+                                        <li class="page-item"><a class="page-link" href="C-electronic.php">4</a></li>
                                         <li class="page-item">
                                             <a class="page-link" href="C-home-app.php">Next</a>
                                         </li>

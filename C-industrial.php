@@ -52,7 +52,7 @@
                                         </ul>
                                     </div><!-- end post-sharing -->
                                     <h4><a href="#" title=""> Mombasa Eazyweigh scales</a></h4>
-                                    <p>Mombasa Eazy Weigh Scales is a leading importer and supplier of scales (both manual and digital/electronic). We undertake service maintenance of all types of weighing scales and offering after sales service and as need arise.<b>CALL:0727812373</b></p>
+                                    <p>Mombasa Eazy Weigh Scales is a leading importer and supplier of scales (both manual and digital/electronic). We undertake service maintenance of all types of weighing scales and offering after sales service and as need arise.<button class="call"><a href="tel:0727812373">Call Us</a></button></p>
                                     <small><a href="C-industrial.php" title="">Industrial machines</a></small>
                                     <small><a href="#" title="">21 July, 2021</a></small>
                                     <small><a href="#" title="">by Robert</a></small>
@@ -88,7 +88,7 @@
                                             </ul>
                                         </div><!-- end post-sharing -->
                                         <h4><a href="#" title="">NAIROBI SCALES</a></h4>
-                                        <p> Nairobi scales sells a complete portfolio of weighing equipment from all the leading manufacturers at very competitive rates. also offers a full component level repair service. <b>CALL:0202102296</b></p>
+                                        <p> Nairobi scales sells a complete portfolio of weighing equipment from all the leading manufacturers at very competitive rates. also offers a full component level repair service.<button class="call"><a href="tel:0202102296">Call Us</a></button></p>
                                         <small><a href="C-industrial.php" title="">Industrial machines</a></small>
                                         <small><a href="#" title="">24 July, 2021</a></small>
                                         <small><a href="#" title="">by Robert</a></small>
@@ -117,7 +117,7 @@
                                             </ul>
                                         </div><!-- end post-sharing -->
                                         <h4><a href="#" title="">You can learn how to make money with your blog and videos</a></h4>
-                                        <p>Kennymart is a fully digital and print media adverse and marketing agency, providing full services based on brand presence by creating well rounded story in order to fulfil your goals..</p>
+                                        <p>Kennymart is a fully digital and print media adverse and marketing agency, providing full services based on brand presence by creating well rounded story in order to fulfil your goals.<button class="call"><a href="tel:#">Call Us</a></button></p>
                                         <small><a href="category.php" title="">Make Money</a></small>
                                         <small><a href="#" title="">24 July, 2017</a></small>
                                         <small><a href="#" title="">by Jack</a></small>

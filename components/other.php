@@ -1,4 +1,4 @@
-<div id="" class="widget">
+<div id="side" class="widget">
             <h2 class="widget-title">Advertising</h2>
             <div class="banner-spot clearfix">
                 <div class="banner-img">
@@ -7,7 +7,7 @@
             </div><!-- end banner -->
         </div><!-- end widget -->
 
-        <div class="widget">
+        <div id="side" class="widget">
             <h2 class="widget-title">Instagram Feed</h2>
             <div class="instagram-wrapper clearfix">
                 <a class="" href="#"><img src="upload/small_09.jpg" alt="" class="img-fluid"></a>
@@ -22,7 +22,7 @@
             </div><!-- end Instagram wrapper -->
         </div><!-- end widget -->
 
-        <div class="widget">
+        <div id="side" class="widget">
             <h2 class="widget-title">Other Categories</h2>
             <div class="link-widget">
                 <ul>

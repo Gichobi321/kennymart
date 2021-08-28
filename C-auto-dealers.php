@@ -44,7 +44,7 @@
                                             </ul>
                                         </div><!-- end post-sharing -->
                                         <h4><a href="#" title="">You can learn how to make money with your blog and videos</a></h4>
-                                        <p>Kennymart is a fully digital and print media adverse and marketing agency, providing full services based on brand presence by creating well rounded story in order to fulfil your goals..</p>
+                                        <p>Kennymart is a fully digital and print media adverse and marketing agency, providing full services based on brand presence by creating well rounded story in order to fulfil your goals.<button class="call"><a href="tel:#">Call Us</a></button></p>
                                         <small><a href="category.php" title="">Make Money</a></small>
                                         <small><a href="#" title="">24 July, 2017</a></small>
                                         <small><a href="#" title="">by Jack</a></small>
